@@ -1,15 +1,17 @@
-testDeck
+Quantified Self Movement Activity Recognition Model
 ========
 
-This is a test deck for publishing a slidify document.
+Project for Practical Machine Learning.
 
-Fork this repo.
+files:
 
-Make an edit to this readme file on gh-pages branch. (You can do this directly on the github site by clicking on the readme file and then clicking edit)
+HTML version:
+index.Rmd and index.html
 
-Commit the change.
+PDF version:
+report.Rmd and report.pdf
 
-Go to username.github.io/testDeck/index.html
-And the presentation should be rendered
 
+Tool for submission help:
+pml_write_files.R
 
